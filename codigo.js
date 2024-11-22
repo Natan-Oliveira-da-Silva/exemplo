@@ -1,0 +1,3 @@
+const exibirMensagem = () => {
+  alert("Mensagem");
+};

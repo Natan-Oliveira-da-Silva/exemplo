@@ -1,3 +1,3 @@
 const exibirMensagem = () => {
-  alert("Mensagem diferente");
+  alert("Nova mensagem");
 };

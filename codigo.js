@@ -1,3 +1,3 @@
 const exibirMensagem = () => {
-  alert("Terceira mensagem");
+  alert("Quarta mensagem");
 };
